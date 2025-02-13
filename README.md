@@ -48,7 +48,7 @@ Xayr maktabim tadbiri uchun bayonnoma
     <h1>🎉 Xayr, Maktabim 🎉</h1>
     <p>Bu sahifa maktabimiz uchun bitiruv tadbiri uchun maxsus tayyorlandi.</p>
     <h2>📱 QR-kodni skaner qilib sahifaga kiring:</h2>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://username.github.io/xayr-maktabim" alt="QR Kod">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://mahmudovabdulloh1204.github.io/Bayonnoma/" alt="QR Kod">
     <p>Yoki quyidagi havolani bosing:</p>
     <a href="https://mahmudovabdulloh1204.github.io/Bayonnoma/">📲 Sahifaga o'tish</a>
   </div>
