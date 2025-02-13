@@ -1,26 +1,56 @@
 # Xayr-maktabim
 Xayr maktabim tadbiri uchun bayonnoma
-BAYONNOMA
-Mavzu: “Xayr, maktabim” – unutilmas xotiralar va yangi orzular sari!
-Sana: [Tadbir sanasi]
-Joy: [Tadbir joyi]
-Mas’ullar: [Mas’ul shaxslar]
-
-Tayyorlov ishlari
-Tadbir “Maktabim – bolaligim beshigi” shiori ostida tashkil etiladi.
-“Xotiralar burchagi” – eski sinf rasmlari va esdalik yozuvlari bilan maxsus stend tayyorlanadi.
-Sahna va zal bayramona bezatiladi, o‘quvchilarning ijodiy ishlari aks ettiriladi.
-Bitiruvchilarning bolalikdagi rasmlari va hozirgi suratlari solishtirilgan slayd-shou tayyorlanadi.
-“Eng yaxshi esdalik” tanlovi o‘tkazilib, eng ta’sirli xotira yozgan bitiruvchi rag‘batlantiriladi.
-Tadbir dasturi
-Kirish – boshlovchilar tantanali ravishda tadbirni ochadi.
-Minnatdorchilik – o‘qituvchilar va ota-onalar uchun maxsus “Rahmat doskasi” yaratiladi.
-Ijodiy chiqishlar – bitiruvchilar tomonidan she’r, qo‘shiq, raqs, mini-spektakl namoyish etiladi.
-“Kelajak maktubi” – har bir bitiruvchi kelajakdagi o‘ziga maktub yozib, maktab arxiviga topshiradi.
-Esdalik sovg‘alar – faxriy yorliqlar, diplomlar va ramziy sovg‘alar topshiriladi.
-Yakuniy qism – so‘nggi qo‘ng‘iroq jiringlashi va osmonga sharlar uchirilishi bilan tadbir yakunlanadi.
-Xulosa
-Ushbu tadbir bitiruvchilar uchun unutilmas lahzalarga boy bo‘lishi, ularning maktab yillarini faxr bilan eslashiga xizmat qiladi. Har bir ishtirokchi o‘zida iliq xotiralar va katta orzular bilan yangi bosqichga qadam qo‘yadi.
-
-Mas’ul shaxs: [Ism]
-Imzo: _____________
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Xayr, Maktabim</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e3f2fd;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      margin: 30px auto;
+      max-width: 650px;
+    }
+    h1 {
+      color: #01579b;
+    }
+    img {
+      width: 220px;
+      height: 220px;
+      margin: 25px auto;
+    }
+    a {
+      display: inline-block;
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #0288d1;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: background-color 0.3s;
+    }
+    a:hover {
+      background-color: #0277bd;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Xayr, Maktabim 🎉</h1>
+    <p>Bu sahifa maktabimiz uchun bitiruv tadbiri uchun maxsus tayyorlandi.</p>
+    <h2>📱 QR-kodni skaner qilib sahifaga kiring:</h2>
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://username.github.io/xayr-maktabim" alt="QR Kod">
+    <p>Yoki quyidagi havolani bosing:</p>
+    <a href="https://username.github.io/xayr-maktabim" target="_blank">📲 Sahifaga o'tish</a>
+  </div>
+</body>
+</html>
