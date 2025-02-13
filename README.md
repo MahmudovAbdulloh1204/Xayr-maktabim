@@ -50,7 +50,7 @@ Xayr maktabim tadbiri uchun bayonnoma
     <h2>📱 QR-kodni skaner qilib sahifaga kiring:</h2>
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://username.github.io/xayr-maktabim" alt="QR Kod">
     <p>Yoki quyidagi havolani bosing:</p>
-    <a href="[https://username.github.io/xayr-maktabim" target="_blank](https://mahmudovabdulloh1204.github.io/Bayonnoma/)">📲 Sahifaga o'tish</a>
+    <a href="https://mahmudovabdulloh1204.github.io/Bayonnoma/">📲 Sahifaga o'tish</a>
   </div>
 </body>
 </html>
